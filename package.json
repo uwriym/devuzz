@@ -1,0 +1,19 @@
+{
+  "name": "devuzz",
+  "version": "1.0.0",
+  "description": "The best way to keep up with dev news.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uwriym/devuzz.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uwriym/devuzz/issues"
+  },
+  "homepage": "https://github.com/uwriym/devuzz#readme"
+}
